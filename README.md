@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 Student at VIT University (Chennai Campus)
 - 💻 Passionate about Backend Development, AI/ML, and System Programming  
-- 🔒 Learning Ethical Hacking & Penetration Testing (Kali Linux on WSL)  
+- 🥸 I use arch btw 
 - 🍳 Amateur home cook experimenting beyond code  
 
 ## Tech Stack
